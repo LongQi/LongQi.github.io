@@ -29,6 +29,8 @@ Jekyll规范，我们可以用[Markdown](http://wowubuntu.com/markdown/)这种�
 
 [如何高效利用GitHub](http://www.yangzhiping.com/tech/github.html)
 
+[Github Pages 极简教程](http://www.360doc.com/content/12/0421/09/1016783_205350218.shtml)
+
 [git简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 [Markdown新手指南](http://jianshu.io/p/q81RER)
@@ -36,3 +38,5 @@ Jekyll规范，我们可以用[Markdown](http://wowubuntu.com/markdown/)这种�
 [Markdown写作浅谈](http://www.yangzhiping.com/tech/r-markdown-knitr.html)
 
 [Markdown语法说明](http://wowubuntu.com/markdown/)
+
+[通过GitHub Pages建立个人站点](http://www.cnblogs.com/purediy/archive/2013/03/07/2948892.html)
