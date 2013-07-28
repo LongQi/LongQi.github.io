@@ -17,3 +17,5 @@
 世界很大，我们很渺小，我们奋力拼搏，不是为了征服它，而是想爬上去，去看看它想给我们看的更加美好的视野。
 
 联系我：longfang22@gmail.com
+
+我以前的博文：[www.zlong.name](http：//www.zlong.name)
