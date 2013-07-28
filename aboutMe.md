@@ -1,3 +1,6 @@
+---
+layout: post
+---
 # About me #
 
 ## 张龙 ##
