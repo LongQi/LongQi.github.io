@@ -15,6 +15,31 @@
    <!-- Typekit -->
    <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+   
+   <!--jQuery-->
+   <script src="/js/jquery-1.10.2.min.js" type="text/javascript" charset="utf-8"></script>
+   <script type="text/javascript">
+   
+      var jq = jQuery.noconflict();
+   </script>
+   <script src="/js/jquery.tagcloud.js" type="text/javascript" charset="utf-8"></script>
+   <script language="javascript">
+    jq.fn.tagcloud.defaults = {
+       size: {
+         start: 12,
+         end: 22,
+         unit: 'px'
+      },
+      color: {
+         start: '#7CCD7C',
+         end: '#CD0000'
+      }
+   };
+
+  jq(function() {
+    jq('#tag_cloud a').tagcloud();
+  });
+</script>
 </head>
 <body>
 
