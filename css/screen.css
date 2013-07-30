@@ -41,14 +41,17 @@ p {
 
 a {
   color: #00a;
+  text-decoration: none;
 }
 
 a:hover {
   color: Teal;
+  text-decoration: none;
 }
 
 a:visited {
   color: Chocolate;
+  text-decoration: none;
 }
 
 table {
