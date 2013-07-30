@@ -23,7 +23,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-size: 200%;
+  font-size: 150%;
 }
 
 h1 {
@@ -39,11 +39,11 @@ a {
 }
 
 a:hover {
-  color: yellow;
+  color: Chocolate;
 }
 
 a:visited {
-  color: #00a;
+  color: Teal;
 }
 
 table {
