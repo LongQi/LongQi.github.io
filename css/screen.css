@@ -28,8 +28,9 @@ h2, h3, h4, h5, h6 {
 }
 
 h1 {
+  font: 黑体;
   font-size: 150%;
-  margin: 2em 0;
+  margin: 1em 0;
 }
 
 
