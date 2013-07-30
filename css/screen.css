@@ -44,11 +44,11 @@ a {
 }
 
 a:hover {
-  color: Chocolate;
+  color: Teal;
 }
 
 a:visited {
-  color: Teal;
+  color: Chocolate;
 }
 
 table {
