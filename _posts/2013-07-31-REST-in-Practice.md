@@ -7,7 +7,7 @@ layout: post
 
 资源是基于Web系统的基础建造模块，我们应该从资源的角度来思考Web.
 
-URI（Uniform Resource Identifier）统一资源标识符，一个URI唯一标识一个Web资源，但是一个资源可以有多于一个URI。URI的形式为<scheme>:<特定于scheme的结构>
+URI（Uniform Resource Identifier）统一资源标识符，一个URI唯一标识一个Web资源，但是一个资源可以有多于一个URI。URI的形式为<scheme\>:<特定于scheme的结构\>
 
 - URI(Uniform Resource Identifier)统一资源标识符
 - URN(Uniform Resource Name)统一资源名称
