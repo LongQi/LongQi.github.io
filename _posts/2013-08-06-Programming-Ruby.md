@@ -62,3 +62,38 @@ can be written to:(when the if or while statement is just a single expression)
 
 	numPallets += 1 while weight < 10
 
+###Reading and 'Riting###
+
+`puts` writes each of its arguments, adding a newline after each.
+
+`print` also writes its arguments, but with no newline.
+
+`printf` prints its arguments under the control of a format string.
+
+	printf "Number: %5.2f, String: %s", 1.23, "hello"
+
+produces:
+	
+	Number: 1.23, String: hello
+
+`gets` returns the next line from your program's standard input stream
+
+	line = gets
+	print line
+
+The `gets` routine has a side effect: as well as returning the line just read, it also stores it into the global variable $\_. This variable is special, in that it is used as the default argument in many circumstances. If you call `print` with no argument, it expression is matched against $\_.
+
+##Classes, Objects, and Variables##
+
+	class Song
+		def initialize(name, artist, duration)
+			@name = name
+			@artist = artist
+			@duration = duration
+		end
+	end
+	
+	aSong = Song.new("Bicylops","Fleck",260)
+	aSong.inspect
+	#"#<Song:0x401b4924 @duration=260, @artist=\"Fleck\",@name=\"Bicylops\">"
+
