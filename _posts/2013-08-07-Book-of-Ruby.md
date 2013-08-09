@@ -189,9 +189,42 @@ comparison operator <=>. `arr1<=>arr2`.It returns -1 if arr1 is less than arr2; 
 
 However, if two such arrays are compared and one of the elements in the shorter array is greater than the corresponding element in the longer array, then the shorter array is deemed to be greater.
 
-**Sorting Arrays**
+**Comparing Values**
 
+You can override the < = > method to enable you to define exactly how comparisons will be made between specific types of object.
 
+	class MyArray < Array
+		include Comparable
+
+		def <=> (anotherArray)
+			self.length <=> anotherArray.length
+		end
+	end
+
+	myarr1 = MyArray.new([0,1,2,3])
+	myarr2 = MyArray.new([1,2,3,4])
+
+	myarr1 <=> myarr2		#returns 0
+
+###Hashes###
+
+**Creating Hashes**
+
+	h1 = Hash.new
+	h2 = Hash.new("Some kind of ring")
+
+	h2['treasure1'] = 'Silver ring'
+	h2['treasure2'] = 'Gold ring'
+	h3['treasure3'] = 'Ruby ring'
+	h4['treasure4'] = 'Sapphire ring'
+
+In principle, the key can be any type of object. 
+
+	h1 = {	'room1'=>'The Treasure Room',
+			'room2'=>'The Throne Room',
+			'loc1'=>'A Forest Glade',
+			'loc2'=>'A Mountain Stream'
+			}
 
 
 

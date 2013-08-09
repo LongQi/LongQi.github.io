@@ -4,6 +4,8 @@ layout: post
 
 #RESTful Web Services Cookbook#
 
+[《RESTful Web Services Cookbook》](http://www.infoq.com/cn/minibooks/restful-web-services-cookbook-cn?utm_source=infoq&utm_medium=related_content_link&utm_campaign=relatedContent_articles_clk)
+
 REST(表述性状态转移)是一种分布式应用架构。
 
 ##Chapter 1 使用统一接口##
@@ -77,3 +79,10 @@ Web基础设施严重依赖于GET方法的幂等性和安全性。客户端期�
 - 如果在应用程序中对复合资源的请求很少，那么它可能不是一个好的选择。依赖缓存代理，从缓存中获取这些资源，也许能让客户端受益匪浅。
 - 网络开销-客户端与服务器之间的网络开销，服务器和后端服务或它所依赖的数据存储之间的网络开销。如果后者开销很大，那获取大量数据并在服务器上将它们组合成复合资源可能会增加客户端的延时，降低服务器的吞吐量。
 
+##Chapter 3 设计表述##
+
+客户端所关心的资源是一个抽象的实体，它是用URI来标识的。另一方面，表述是具体而真是的，您在客户端和服务器上针对它编写代码，进行操作。
+
+###3.1 如何使用实体头来注解表述###
+
+表述是一连串字节加上用于描述那些字节的元数据。
