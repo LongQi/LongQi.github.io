@@ -226,5 +226,31 @@ In principle, the key can be any type of object.
 			'loc2'=>'A Mountain Stream'
 			}
 
+**Copying a Hash**
+
+	h5 = h1.clone
+
+**Hash Methods**
+
+	aHash.delete(someKey)
+	aHash.has_key?(someKey)
+	aHash.has_value?(someValue)
+	aHash.invert		#return a new hash created using the original hash's values as keys, and its keys as values.
+	aHash.keys			#return an array populated with the hash's keys.
+	aHash.values		#return an array populated with the hash's values.
+
+##Chapter 5 Loops and Iterators##
+
+###For Loops###
+
+	for i in [1,2,3] do
+		puts(i)
+	end
+
+	[1,2,3].each do |i|
+		puts(i)
+	end
+
+
 
 
