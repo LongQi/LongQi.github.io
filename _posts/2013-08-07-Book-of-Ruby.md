@@ -251,6 +251,48 @@ In principle, the key can be any type of object.
 		puts(i)
 	end
 
+###Blocks###
 
+	[[1,2,3],[3,4,5],[6,7,8]].each do
+		|a,b,c|
+			puts("#{a},#{b},#{c}")
+	end
 
+	[[1,2,3],[3,4,5],[6,7,8]].each{
+		|a,b,c|
+			puts("#{a},#{b},#{c}")
+	}
 
+###While Loops###
+
+	while tired
+		sleep
+	end
+
+	begin
+		sleep
+		snore
+	end while tired
+
+###Until Loops###
+
+`until` = `while not`
+
+	until i==10
+		puts(i)
+		i+=1
+	end
+
+###Loop###
+
+	loop{
+		puts(arr[i])
+		i+=1
+		if(i==arr.length) then
+			break
+		end
+	}
+
+##Chapter 6 Conditional Statements##
+
+###Case Statements###
