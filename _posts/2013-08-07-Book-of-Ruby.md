@@ -296,3 +296,41 @@ In principle, the key can be any type of object.
 ##Chapter 6 Conditional Statements##
 
 ###Case Statements###
+
+##Chapter 7 Methods##
+
+###Class Methods###
+
+	class MyClass
+		def MyClass.classMethod
+			puts("This is a class method")
+		end
+	
+		def instanceMethod
+			puts("This is an instance method")
+		end
+	end
+
+You should use the class name when calling a class method:
+
+	MyClass.classMethod
+
+A specific object cannot call a class method. Nor can a class call an instance method:
+
+	MyClass.instanceMethod	#Error!
+	ob.classMethod			#Error!
+
+###Class Variables###
+
+	class Thing
+		@@num_things = 0
+	
+		def initialize(aName,aDescription)
+			@@num_things += 1
+		end
+	end
+
+Unlike an instance variable, a class variable must be given a value when it is first declared:
+
+	@@classvar = 1000
+
