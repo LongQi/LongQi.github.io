@@ -8,7 +8,6 @@ This article is reprinted from [act2.me](http://act2.me/re-inventing-microsoft/)
 ##Re-inventing Microsoft##
 
 September 11, 2013
-![](http://act2.me/wp-content/uploads/2013/09/logo.png)
 
 There has been a lot written about Microsoft in the last two months. A [large re-org, the retirement of SteveB](http://www.microsoft.com/en-us/news/press/2013/jul13/07-11onemicrosoft.aspx), and [Microsoft’s purchase of Nokia](http://www.microsoft.com/en-us/news/press/2013/sep13/09-02announcementpr.aspx) have been the events that have focused a debate on Microsoft’s future.
 
@@ -84,11 +83,11 @@ So, what must Microsoft do? The current strategy of “[Devices & Services](http
 This will not be easy, and the path of re-invention needs to be unique to Microsoft’s challenges. Here are six things that I believe Microsoft must do to re-invent itself:
 
 
-* Find a visionary leader: Someone bold and decisive. Someone to set the direction and rally the troops. Someone who may get things wrong, but the few things that they get right — they are oh-so-right. This is what Microsoft needs now.
-* Become leaner and flatter: Microsoft has many employees spread across many divisions. It will add to this with the people from the Nokia deal. Microsoft needs to become leaner and flatter, by removing the chaff, bringing together its best people and focusing them narrowly.
-* Create a marketplace that users flock to: Difficult, but must do. My view: Focus on students, families & personal productivity. Bring together Office, Bing, XBox and Phone. Make it simple, valuable and connected for end-users.
-* Win back developers: Become radically open. Contribute to the community. Make Azure free. Win back developers. This used to be Microsofts stronghold — it needs to regain this position of strength.
-* Create a singular identity: Seen [www.amazon.com](http://www.amazon.com),[www.apple.com](http://www.apple.com),[www.facebook.com](http://www.facebook.com) or [www.google.com](http://www.google.com)? Now go to [www.microsoft.com](http://www.microsoft.com). Why are you there? Microsoft needs to create a singular identity and meaning in the minds of its end-users. Users need to think “**My** Microsoft” — not “Microsoft”.
+* **Find a visionary leader**: Someone bold and decisive. Someone to set the direction and rally the troops. Someone who may get things wrong, but the few things that they get right — they are oh-so-right. This is what Microsoft needs now.
+* **Become leaner and flatter**: Microsoft has many employees spread across many divisions. It will add to this with the people from the Nokia deal. Microsoft needs to become leaner and flatter, by removing the chaff, bringing together its best people and focusing them narrowly.
+* **Create a marketplace that users flock to**: Difficult, but must do. My view: Focus on students, families & personal productivity. Bring together Office, Bing, XBox and Phone. Make it simple, valuable and connected for end-users.
+* **Win back developers**: Become radically open. Contribute to the community. Make Azure free. Win back developers. This used to be Microsofts stronghold — it needs to regain this position of strength.
+* **Create a singular identity**: Seen [www.amazon.com](http://www.amazon.com),[www.apple.com](http://www.apple.com),[www.facebook.com](http://www.facebook.com) or [www.google.com](http://www.google.com)? Now go to [www.microsoft.com](http://www.microsoft.com). Why are you there? Microsoft needs to create a singular identity and meaning in the minds of its end-users. Users need to think “**My** Microsoft” — not “Microsoft”.
 
 ---
 
