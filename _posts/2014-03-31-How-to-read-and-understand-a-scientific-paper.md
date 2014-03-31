@@ -38,7 +38,7 @@ Not "What is this paper about?", but "What problem is this entire field trying t
 
 **4. Identify the SPECIFIC QUESTION**
 
--What exactly are the authors trying to answer with their research?
+- What exactly are the authors trying to answer with their research?
 
 **5. Identify the approach**
 
